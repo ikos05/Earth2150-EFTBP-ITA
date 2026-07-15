@@ -1,3 +1,5 @@
+![Logo Earth 2150 Traduzione Italiana](assets/logo_earth2150_traduzione_italiana.png)
+
 # Earth-2150-EFTBP-Italian-Translation
 Traduzione italiana di Earth 2150: Escape from the Blue Planet.
 
