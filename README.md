@@ -13,6 +13,7 @@ Testata su:
 ---
 
 ## Stato della traduzione
+**Versione attuale: v0.9 — Traduzione giocabile**
 
 Da completare:
 - editor mappe
@@ -41,6 +42,8 @@ che si trova nella directory principale del gioco (GOG Games 2.8.7.1 + Patch 2.9
 - Se usi una versione del gioco **senza file compressi `.wd`**, prova a sostituire:
   - `language.lan`
   - `subtitles.txt`
+
+---
  
 ## Contribuire
 
@@ -54,3 +57,12 @@ Se vuoi contribuire alla traduzione:
 Una mini guida tecnica sulla struttura dei file e sul processo di ricostruzione verrà aggiunta in seguito.
 
 Grazie a chiunque voglia contribuire al miglioramento della traduzione italiana di *Earth 2150: Escape from the Blue Planet*.
+
+---
+
+## Nota legale
+
+Questa traduzione è una modifica non ufficiale dei file di gioco di Earth 2150: Escape from the Blue Planet.
+I contenuti originali rimangono di proprietà dei rispettivi detentori dei diritti.
+La traduzione italiana è distribuita gratuitamente e senza scopo di lucro.
+Questo progetto non è affiliato né supportato dagli sviluppatori o dai publisher originali.
