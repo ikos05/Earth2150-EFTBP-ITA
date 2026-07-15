@@ -1,0 +1,495 @@
+group PRODUCER
+{
+Achim Heidelauf
+}
+
+group BRANCH DIRECTOR
+{
+Tadeusz Zuber
+}
+
+group PROJECT LEADER
+{
+Miroslaw Dymek
+}
+
+group LEAD PROGRAMMING
+{
+Tomasz Radon
+}
+
+group PROGRAMMERS
+{
+Tomasz Barabasz
+Jan Nitecki
+Tomasz Radon
+Jacek Sikora
+}
+
+group EDITOR PROGRAMMING
+{
+Tomasz Barabasz
+}
+
+group NETWORK PROGRAMMING
+{
+Jan Nitecki
+}
+
+group AI PROGRAMMING
+{
+Tomasz Radon
+Jacek Sikora
+}
+
+group LC ARTWORK
+{
+Rafal Januszkiewicz
+}
+
+group UCS ARTWORK
+{
+Kajetan Czarnecki
+Daniel Duplaga
+Andrzej Rams
+}
+
+group ED ARTWORK
+{
+Wojciech Drazek
+Rafal Januszkiewicz
+Slawomir Jedrzejewski
+Grzegorz Wisniewski
+}
+
+group - IN-GAME GRAPHICS -
+{
+}
+
+group  INTERFACE LAYOUT
+{
+Piotr Rulka
+}
+
+group 3D-MODELING & ANIMATION
+{
+Wojciech Drazek
+Daniel Duplaga
+Rafal Januszkiewicz
+Slawomir Jedrzejewski
+Grzegorz Wisniewski
+}
+
+group TERRAIN TEXTURES
+{
+Wojciech Drazek
+}
+
+group 2D GRAPHICS & TEXTURES
+{
+Wojciech Drazek
+Daniel Duplaga
+Rafal Januszkiewicz
+Slawomir Jedrzejewski
+Piotr Rulka
+Violetta Tranter
+}
+
+
+group MUSIC
+{
+"SPOT - STUDIO"
+Krakow, Poland
+Maciej Pawlowski
+GUITAR
+Lukasz Targosz
+}
+
+group SOUND F/X
+{
+Remigiusz Miernikiewicz
+}
+
+group - INTRO -
+{
+}
+
+group ANIMATION
+{
+Krzysztof Rybczyñski
+}
+
+group MODELING
+{
+Kajetan Czarnecki
+Rafal Januszkiewicz
+Andrzej Rams
+}
+
+group ADDITIONAL ANIMATION
+{
+Kajetan Czarnecki
+Andrzej Rams
+Piotr Rulka
+}
+
+group - MOVIES -
+{
+}
+
+group MODELING
+{
+Kajetan Czarnecki
+Wojciech Drazek
+Daniel Duplaga
+Rafal Januszkiewicz
+Slawomir Jedrzejewski
+Andrzej Rams
+Krzysztof Rybczynski
+Grzegorz Wisniewski
+}
+
+group ANIMATION
+{
+Kajetan Czarnecki
+Daniel Duplaga
+Slawomir Jedrzejewski
+Andrzej Rams
+Piotr Rulka
+Krzysztof Rybczynski
+Grzegorz Wisniewski
+}
+
+
+group LEVEL DESIGNER
+{
+Miroslaw Dymek
+}
+
+group MISSION BRIEFINGS
+{
+Martin Thal
+Miroslaw Dymek
+Achim Heidelauf
+}
+
+group LEAD MAP DESIGNER
+{
+Tadeusz Zuber
+}
+
+group MAP DESIGNERS
+{
+Miroslaw Dymek
+Dawid Jakubowski
+}
+
+group BOX LAYOUT
+{
+Piotr Rulka
+}
+
+group MANUAL
+{
+Lidia Dutkiewicz
+Miroslaw Dymek
+Martin Thal
+}
+
+group MANUAL LAYOUT
+{
+Elena Hernandez
+Nick Merling
+}
+
+group LEAD TESTER
+{
+Dawid Jakubowski
+}
+
+group BETA TESTERS
+{
+Maciek Biegun
+Marcin Dabrowski
+Achim Heidelauf
+Sergiusz Juraszek
+Rafal Mrowka
+Jacek Nowak
+Artur Pytlarz
+Tomasz Rozen
+Grzegorz Szczepanek
+Tadeusz Zuber
+}
+
+
+group NET ADMINISTRATION & TECH. SUPPORT
+{
+Life supporting team for our
+computers and network:
+Miroslaw Burzynski
+Grzegorz Tworek
+}
+
+group HEAD OF QA / TOPWARE GERMANY
+{
+Achim Heidelauf
+}
+
+group PUBLIC RELATIONS
+{
+Alexandra Jäger
+Esther Manga
+}
+
+group LOCALIZATION MANAGER
+{
+Patricia Bellantuono
+}
+
+
+group TRANSLATIONS
+{
+Ronnie Shankland
+Achim Heidelauf
+Kevin Decker-Weiss
+Violetta Tranter
+Katarzyna Tysa
+}
+
+group STUDIO DIRECTORS
+{
+Kevin Decker
+Ronnie Shankland
+}
+
+
+group VOICES
+{
+Tonstudio Brainhaus
+Bernard Rasemann
+---
+LC 
+-
+Tank 1 - Loretta Munoz
+Tank 2 - Terry Hofmann
+Tank 3 (Fang) - Andrew Culjak
+Civilian - Naomi Skinner
+Aircraft - Brigitta Gsell
+Base Messages - Madeleine Schumacher
+Cutscenes - Jeanne Ragonese
+---
+ED 
+-
+Tank 1 - Ronald Bird
+Tank 2 - Sam Lewis
+Civilian - Andrew Culjak
+Navy - Michael Payne
+Aircraft - Paul La Bella
+Base Messages - Ned Lemieux
+Cutscenes - Jonathan Madigan
+---
+UCS 
+-
+Tank 1 - Ken Rouse
+Tank 2 - Ronald Bird
+Civilian - Sam Lewis
+Aircraft - Michael Payne
+Navy - Joel Scruggs
+Base Messages - Julie Culjak
+Cutscenes - Craig McKee
+---
+MUTANTS
+-
+Tank 1 - Craig McKee
+Tank 2 - Ronnie Shankland
+Civilian - Mike Williams
+}
+
+group -- SSI --	
+{
+}
+
+
+group SENIOR PRODUCER	
+{
+Jim Tso
+}
+group PRODUCTION ASSISTANT	
+{
+Alex Marcelo
+}
+group - PRODUCT TEST CREDITS -
+{
+}
+group ASSISTANT TEST MANAGER
+{
+Robert Andrakin 
+}
+group TEST SUPERVISOR
+{
+Richard Fielder
+}
+
+group TEST LEAD
+{
+Dwight Cordero 
+}
+
+group TESTERS
+{
+Mark Wagman
+Dave Chapman 
+Nathan Tice 
+Jason Gray 
+Matt Garman 
+Paul Brandt 
+Matt Gayda 
+Brian Yager 
+Tyler Ludlow 
+Josh Palmer 
+Trevalyan Markle 
+Andy Davies 
+Ben Etheridge 
+Peter Ferriola
+Jason Cahill
+Mike Chevalier
+Walker Richardson
+Skiff Sumner
+Dennis Pelham
+Jason Leek
+Jess Sterzl
+Kevin Dewell
+Erik Braa
+Clifton Allen
+Charles Nishi
+Steve Cohrs
+Toby Abernathy
+Billy Burns
+Kurt Maffei
+Joel Lehmann
+Heather Jennings
+Lesley Mathieson
+Paul Bunten
+Jessica Chastain
+Jon Mahall
+Nick Van Fossen
+Robert Bryant 
+Roger Hu 
+Jim Balthaser 
+Amish Daya 
+Karen Ditto 
+Ify Erby 
+Adrian Fernandez 
+Nick Layne 
+Fausto Lorenzano 
+Jay O'Balles 
+Peter Reinhard 
+Paul Taniguchi 
+Carlos Vasquez 
+}
+
+
+group GENERAL MANAGER, ENTERTAINMENT DIV.
+{
+Amy Boylan
+}
+group MANAGING DIRECTOR, NOVATO STUDIO
+{
+Carl C. Norman
+}
+
+group OTHER MARKETING SUPPORT	
+{
+Ray Brock
+}
+group OTHER PR SUPPORT	
+{
+Michael Shelling
+Jim Seaman
+}
+group INSTALLER PROGRAMMING	
+{
+Brian Fitz
+Diedra Hendricks
+}
+group SUPPORT PERSONNEL	
+{
+Sarah Taylor
+Andrea Akmenkalns
+Fernando Cuervo
+}
+group Layout and DTP	
+{
+Louis Saekow Design
+}
+
+group SPECIAL THANKS TO:
+{
+Krzysztof Janicki / Intel Corp.
+For hardware and technical support.
+-
+SONJA
+Teresa Dymek
+Grzegorz Rybicki / Firma B.THOVEN
+Martin Thal
+7%-Alex
+Hannemann
+Patricia
+Sigi
+Silke
+Igor
+Bobo
+Super-Dau Jäger
+Dexter Chow
+Garrett Graham
+Jon Kromrey
+Chuck Yager
+Russ Brown
+Dave Cobb
+Mario Alves
+Tena Lawry
+Baboo
+- 
+...Maciej Pawlowski wishes to thank
+YAMAHA EUROPE NV21 Company
+and PROMUSICA
+for making the newest 
+technologies available ...
+- 
+...Lukasz Targosz uses 
+DEAN MARKLEY strings 
+
+- 
+ 
+To all those who participated
+in the project creation
+}
+group LEGAL INFORMATION
+{
+© 2000 Mattel, Inc., and its licensors. 
+Copyright 2000, TopWare CD Service AG. 
+All rights reserved. The SSI logo is a 
+registered trademark and Mattel Interactive 
+is a trademark of Mattel, Inc. Earth 2150 
+is a registered trademark of TopWare CD 
+Service AG. Windows and Win are either 
+registered trademarks or trademarks of 
+Microsoft Corporation in the United 
+States and/or other countries. All 
+other trademarks are the property of 
+their respective owners. 
+
+-
+
+DirectX is a proprietary tool of 
+Microsoft Corporation and its suppliers 
+and may only be used in conjunction with 
+Microsoft operating system products. All 
+intellectual property rights in the 
+DirectX are owned by Microsoft Corporation 
+and its suppliers and are protected by 
+United States copyright laws and 
+international treaty provisions. Copyright 
+©2000 Microsoft Corporation. All rights 
+reserved.
+}

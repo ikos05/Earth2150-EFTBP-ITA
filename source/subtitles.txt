@@ -1,0 +1,473 @@
+//UCS cutscenes
+cutscene CS101	
+{
+    PosY 0		
+	text 0.15,"Questa mattina il primo shuttle spaziale è decollato dal Cosmodromo carico di materiali da costruzione per la base di evacuazione."
+	text 0.35," "
+    text 0.38,"Questo evento epico rappresenta anche un enorme passo avanti per l'umanità e per gli UCS."
+	text 0.55," "
+    text 0.58,"Presto inizieremo il più grande progetto di costruzione di tutti i tempi, dimostrando ancora una volta che gli UCS sono invincibili."
+    text 0.72," "
+}
+
+cutscene CS102  
+{
+	PosY 0
+	text 0.18,"Attenzione, cittadini degli United Civilized States! Ecco un annuncio importante! La costruzione della nostra base di evacuazione orbitale è iniziata." 
+	text 0.35," "
+	text 0.4,"Fonti attendibili vicine al luogo ci informano che i lavori sono iniziati e procedono secondo il piano. Seguite gli aggiornamenti."  
+	text 0.7," "		
+}
+
+cutscene CS103  
+{
+  PosY 0
+	text 0.15, "La costruzione della base di evacuazione procede senza intoppi."
+	text 0.30, " "
+	text 0.35, "Fonti vicine al governo ci informano che anche il trasporto dei materiali da costruzione sta procedendo senza problemi."
+	text 0.50, " "
+	text 0.55, "Sono lieto di annunciare che il 30% del progetto è ora completato e i tecnici UCS lavorano giorno e notte per ultimare la base."
+  text 0.8, " "		
+}
+
+cutscene CS104  
+{
+  PosY 0
+  text 0.15, "Il nostro osservatore sul cantiere ci informa che oltre il 60% dei lavori è ora stato completato."
+  text 0.45, " "
+	text 0.5, "Secondo un portavoce del governo, è diventato necessario installare sistemi di difesa per proteggere la base dai danni causati dalle piogge di meteoriti."
+  text 0.8, " "		
+}
+
+cutscene CS105  
+{
+  PosY 0
+	text 0.14, "Abbiamo preso contatto con una delle persone responsabili del completamento della costruzione della nave di evacuazione."
+	text 0.34, "Secondo il suo rapporto, tutto procede bene."
+	text 0.44, "L'ultimo shuttle spaziale con materiali da costruzione dalla Terra è appena arrivato." 
+	text 0.55, "Rimangono da effettuare le installazioni finali e i test dei sistemi della nave."
+	text 0.7, " "		
+}
+
+cutscene CS106 
+{
+  PosY 0
+  text 0.14, "La direzione del Research Center ci ha informato che lo sviluppo di un nuovo sistema di difesa è stato completato con successo."
+  text 0.34, "Un campo di forza cattura tutta l'energia emessa dalle armi laser e le rende inutili contro le nostre unità."
+  text 0.54, "I primi modelli di generatore saranno installabili a breve."
+  text 0.75, " "		
+}
+
+cutscene CS107 
+{
+  PosY 0
+  text 0.15, "Nel laboratorio di Stanford è stata sviluppata una nuova arma segreta."
+  text 0.3, 
+	text 0.45, "Come mostra questo filmato, è estremamente efficace."
+	text 0.6, "Qui è stata impiegata la tecnologia al plasma con risultati letali." 
+	text 0.7, "I primi Cannoni al Plasma entreranno presto in produzione."
+  text 0.8, " "		
+}
+
+cutscene CS108 
+{
+  PosY 0
+  text 0.15, "Nel nostro laboratorio è stato sviluppato un nuovo intercettore utilizzando tecnologia antigravitazionale."
+  text 0.3, "All'aereo è stato dato un nome ricco di tradizione - GARGOYLE."
+  text 0.45, "Velocità, manovrabilità e enorme potenza di fuoco sono le sue caratteristiche principali."
+	text 0.6, "I primi modelli di GARGOYLE saranno prodotti e schierati nei prossimi giorni."
+  text 0.75, " "		
+}
+
+cutscene CS109 
+{
+  PosY 0
+	text 0.15, "L'ultima serie di test è in corso su un nuovo bombardiere."
+	text 0.35, "Questo velivolo ha un'incredibile capacità di sollevamento, spinta antigravità ottimizzata e una pesante corazzatura."
+	text 0.55, 
+	text 0.67, "Diventerà l'arma offensiva standard della nostra Aeronautica."
+  text 0.8, " "		
+}
+
+cutscene CS110 
+{
+  PosY 0
+	text 0.15, "Attenzione, cittadini degli United Civilized States! Questo è un messaggio recente direttamente dal campo di battaglia. Le nostre truppe hanno ottenuto un'altra gloriosa vittoria."
+	text 0.35, "Questo ultimo trionfo ci avvicina sempre di più al raggiungimento del nostro obiettivo!"
+	text 0.50, "Dopo questa nuova sconfitta schiacciante, la disperazione del nemico cresce e potrebbe tendere agguati ovunque."
+	text 0.60, "Golan ha ordinato di rimanere sempre in guardia."
+	text 0.75, " "		
+}
+
+cutscene CS111 
+{
+  PosY 0
+	text 0.15, "Il nostro esercito va di trionfo in trionfo!"
+	text 0.27, "L'ultima operazione militare ha portato a un altro clamoroso successo!"
+	text 0.39, "Ma non dobbiamo adagiarsi sugli allori."
+	text 0.51, "La vittoria finale non è ancora vicina e la prudenza sarà la nostra parola d'ordine."
+	text 0.63, "Il nemico non dorme mai!"
+	text 0.75, " "		
+}
+
+cutscene CS112 
+{
+  PosY 0
+  text 0.15, "Il Quartier Generale ci informa che le nostre truppe hanno subito una sconfitta schiacciante nella battaglia di ieri."
+  text 0.35, "I nostri agenti sono accusati di aver presentato rapporti falsi sulle forze nemiche."
+  text 0.55, "Ma questo non ci ostacolerà - la nostra sopravvivenza è in gioco."
+  text 0.8, " "		
+}
+
+cutscene CS113 
+{
+  PosY 0
+  text 0.1, " "
+}
+
+cutscene CS114 
+{
+  PosY 0
+  text 0.15, "Le prossime 24 ore vedranno un marcato aumento della nuvolosità."
+  text 0.30, "Le temperature diurne raggiungeranno i -50, scendendo a -90 questa notte."
+  text 0.45, "Soffierà una leggera brezza meridionale e una depressione da est porterà temporali e neve."
+  text 0.60,  
+  text 0.8, " "		
+}
+
+cutscene CS115 
+{
+  PosY 0
+  text 0.15, "La tendenza al riscaldamento degli ultimi 2 mesi ha portato allo scioglimento delle calotte polari."
+  text 0.30, "I livelli degli oceani sono aumentati drasticamente e vaste aree sono allagate."
+  text 0.43, "Gli scienziati stimano che ci vorranno circa 3 mesi per il completo scioglimento delle calotte polari."
+  text 0.63, "La temperatura diurna raggiungerà gli 80 gradi e quella notturna scenderà a 50 a causa di una leggera brezza." 
+  text 0.73, ""
+  text 0.83, " "		
+}
+
+cutscene CS116  
+{
+  PosY 0
+  text 0.15, "Una massa d'aria calda sta attraversando il continente."
+  text 0.30, "Il livello delle acque si abbassa giorno dopo giorno e la nostra terra diventerà presto un deserto arido."
+  text 0.45, "Nelle prossime 24 ore la temperatura salirà fino a un bruciante 130 gradi."
+  text 0.60, ""
+  text 0.8, " "		
+}
+
+cutscene CS117  
+{
+  PosY 0
+  text 0.15, "Movimenti intensi delle placche tettoniche su tutto il pianeta influenzeranno pesantemente il clima."
+  text 0.45, "Vulcani attivi stanno rilasciando grandi quantità di cenere nell'atmosfera terrestre, oscurando il sole. Ciò riduce notevolmente le temperature e genera venti pericolosamente forti."
+  text 0.8, " "		
+}
+
+//ED cutscenes
+cutscene CS201  
+{
+  PosY 0
+  text 0.20, "Compagni, il primo shuttle è partito dal Cosmodromo Khun questa mattina, carico di forniture per il bacino spaziale "Salud"."
+  text 0.35, "I nostri ingegneri inizieranno il loro compito tra 26 ore." 
+  text 0.55, "Con la costruzione di questo bacino faremo il passo successivo verso la distruzione dei mortali nemici della nostra razza!"
+  text 0.8, " "		
+}
+
+cutscene CS202	
+{
+  PosY 0
+  text 0.2, "Al nostro sito di costruzione in orbita sono iniziati i lavori per la stazione di attracco."
+  text 0.3, 
+  text 0.45, "La nostra forza di costruzione completerà una nave di evacuazione entro 30 giorni."
+  text 0.55, "Questo glorioso risultato dimostrerà la nostra superiorità una volta per tutte!"
+  text 0.70, " "
+}
+
+cutscene CS203  
+{
+  PosY 0
+  text 0.2, "Compagni, la costruzione del bacino di evacuazione è stata completata con successo."
+  text 0.3, "Shuttle aggiuntivi porteranno i materiali necessari per la prima nave di evacuazione."
+  text 0.42, "Il nostro Comandante ha ordinato il rispetto di tutte le scadenze, a qualunque prezzo."
+  text 0.55, "Gli ingegneri completeranno la prima nave di evacuazione, Exodus I, entro un mese - o affronteranno la liquidazione."
+  text 0.75, " "
+}
+
+cutscene CS204  
+{
+  PosY 0
+  text 0.2, "Altre notizie gloriose, compagni!"
+  text 0.3, "La prima nave di evacuazione è pronta nel nostro bacino orbitale "Salud"!"
+  text 0.44, "Exodus I è stata assegnata a una posizione orbitale permanente, a cui presto si uniranno altre 15 navi Exodus."
+  text 0.75, " "		
+}
+
+cutscene CS205  
+{
+  PosY 0
+  text 0.2, "L'ultima nave Exodus è stata completata."
+  text 0.3, "Mai prima d'ora l'universo ha visto una flotta tanto potente."
+  text 0.4, "Secondo il Piano Maestro di Evacuazione, il nostro esercito invincibile ora assemblerà l'equipaggio."
+  text 0.55, "Questa operazione avrà il nome in codice "Ark"."
+  text 0.65, " "		
+}
+
+cutscene CS206  
+{
+  PosY 0
+  text 0.2, "Il Kurchatov Research Center ha completato un nuovo sistema di difesa."
+  text 0.4, "Il campo di forza assorbe l'energia delle armi laser, rendendole inutili contro le nostre unità."
+  text 0.65, "I primi modelli di generatore entreranno immediatamente in produzione di massa."
+  text 0.77, " "		
+}
+
+cutscene CS207  
+{
+  PosY 0
+  text 0.2, "Compagni! Kurchatov ha sviluppato una nuova arma laser."
+  text 0.35, "I test ne hanno dimostrato l'eccezionale efficacia."
+  text 0.50, "Questo è un ulteriore passo verso la vittoria finale! Con quest'arma temibile nessun nemico vorrà affrontarci!"
+  text 0.78, " "		
+}
+
+cutscene CS208  
+{
+  PosY 0
+  text 0.2, "Compagni! Kurchatov ha ultimato lo sviluppo di una nuova arma."
+  text 0.3, "L'Ion Cannon è un risultato unico dei nostri brillanti scienziati."
+  text 0.4, "Questa arma ci permetterà di disattivare e paralizzare le unità nemiche."
+  text 0.60, "Entrerà in azione immediatamente."
+  text 0.75, " "		
+}
+
+cutscene CS209  
+{
+  PosY 0
+  text 0.20, "Attenzione, compagni, splendide notizie dal Kurchatov Research Center! Il nuovo elicottero da combattimento MI 200 è completo!"
+  text 0.30, 
+  text 0.40, 
+  text 0.50, "Sarà inviato in battaglia nei prossimi giorni."
+}
+
+cutscene CS210  
+{
+  PosY 0
+  text 0.2, "Oggi i nostri soldati hanno ottenuto un'altra vittoria schiacciante sulle forze nemiche demoralizzate."
+  text 0.35, "L'invincibile esercito ED ha aperto la strada verso nuovi territori ricchi di giacimenti minerari."
+  text 0.50, "Questo accelererà la costruzione della flotta di evacuazione. Ancora una volta le nostre coraggiose unità sono in prima linea."
+  text 0.70, " "		
+}
+
+cutscene CS211  
+{
+  PosY 0
+  text 0.2, "Oggi entrerà negli annali della storia come "Victory Day". Le forze della Eurasian Dynasty continuano a marciare da un trionfo all'altro."
+  text 0.5, "I nostri nemici non valgono più di cani. Ricorreranno a qualsiasi misura disperata per ostacolare la nostra ricerca della vittoria finale."
+  text 0.8, " "		
+}
+
+cutscene CS212  
+{
+  PosY 0
+  text 0.2, "Oggi le nostre truppe sono state attaccate in un'imboscata da forze nemiche codarde."
+  text 0.3, "Non dobbiamo abbassarci a tali metodi."
+  text 0.4, "La sconfitta ha temprato la nostra determinazione."
+  text 0.55, "Questa atrocità rafforzerà soltanto la determinazione delle nostre truppe ad annihilare e schiacciare tutti i nemici!"
+  text 0.75, " "		
+}
+
+cutscene CS213  
+{
+  PosY 0
+  text 0.2, " "
+}
+
+cutscene CS214  
+{
+  PosY 0
+  text 0.2, "Compagni, le prossime 24 ore porteranno un forte aumento della copertura nuvolosa."
+  text 0.3, "Le temperature raggiungeranno i -50 durante il giorno e scenderanno a -90 di notte. Soffierà una leggera brezza da sud."
+  text 0.5, "La bassa pressione proveniente da est provocherà bufere di neve."
+  text 0.6, "Vi è vietato lasciare i vostri bunker durante la tempesta."
+  text 0.7, " "		
+}
+
+cutscene CS215  
+{
+  PosY 0
+  text 0.2, "Il nostro clima si è riscaldato pericolosamente da 2 mesi. La situazione ha portato allo scioglimento delle calotte polari."
+  text 0.35, "I livelli delle acque nei nostri oceani sono aumentati. Intere aree di terra sono allagate."
+  text 0.48, "I nostri scienziati prevedono che ci vorranno solo 3 mesi prima che le calotte polari siano completamente sciolte."
+  text 0.65, "La massima odierna sarà di 80 gradi."
+  text 0.73, "La minima di stanotte sarà di 50."
+  text 0.8, " "		
+}
+
+cutscene CS216  
+{
+  PosY 0
+  text 0.2, "Un'ondata di calore sta attraversando il nostro continente."
+  text 0.35, "Le fonti naturali d'acqua scarseggiano."
+  text 0.50, "Il nostro pianeta si trasformerà presto in un deserto desolato."
+  text 0.65, "Nelle prossime 24 ore le temperature supereranno i 130 gradi."
+  text 0.8, " "		
+}
+
+cutscene CS217  
+{
+  PosY 0
+  text 0.2, "Movimenti imprevedibili delle placche tettoniche della Terra stanno avendo un effetto disastroso sul clima del pianeta."
+  text 0.45, "Tonnellate di cenere vulcanica gettate nell'atmosfera hanno oscurato il sole, causando un calo delle temperature e scatenando venti di un'intensità mai vista prima."
+  text 0.8, " "		
+}
+
+
+//LC cutscenes
+cutscene CS301
+{
+  PosY 1   
+  text 0.2, "Poco prima di oggi il primo shuttle spaziale è decollato, trasportando materiali destinati al nostro bacino spaziale. Una volta lì saranno utilizzati per costruire la nostra nave di evacuazione - e salvare la nostra razza dal terribile disastro che si profila."
+  text 0.5, "La costruzione inizierà tra 26 ore - non appena lo shuttle avrà raggiunto l'orbita."
+  text 0.8, "Il Celestial Council vi chiede di fare tutti la vostra parte nella lotta che ci attende. Se tutti collaboriamo, sorelle, trionferemo sicuramente."		
+}
+
+cutscene CS302   
+{
+  PosY 1
+  text 0.2, "Attenzione sorelle! Ecco le ultime dal cantiere. Siamo lieti di annunciare che lo scafo della nave è ora completo. Tutto è andato proprio come previsto."
+  text 0.35, "Non appena le nostre scorte di materie prime saranno rifornite, potremo iniziare la costruzione delle sezioni interne."
+  text 0.50, "Vi assicuro che la nostra corporazione sta facendo il possibile per portare a termine questo progetto e salvarci dalla catastrofe imminente. Se rimaniamo concentrati sui nostri obiettivi, avremo certamente successo."
+  text 0.75, " "		
+}
+
+cutscene CS303   
+{
+  PosY 1
+  text 0.2, "Siamo riusciti a filmare la fase successiva della costruzione della nave di evacuazione."
+  text 0.3, "I responsabili del progetto ci hanno assicurato che non dobbiamo preoccuparci. I lavori procedono come pianificato."
+  text 0.4, "Qui vediamo l'installazione delle sezioni interne anteriori."
+  text 0.5, "Continueremo a tenervi informati man mano che la costruzione procede, quindi restate sintonizzati."
+  text 0.8, " "		
+}
+
+cutscene CS304   
+{
+  PosY 1
+  text 0.2, "La nostra recente visita alla stazione orbitale è stata estremamente gratificante."
+  text 0.3, "La nave di evacuazione viene costruita molto rapidamente."
+  text 0.42, "Le nostre sorelle sul sito sono state così gentili da permetterci di osservare l'installazione delle sezioni interne posteriori."
+  text 0.57, "A quanto pare i nostri operai non risparmiano sforzi per finire la nave in tempo."
+  text 0.77, " "		
+}
+
+cutscene CS305   
+{
+  PosY 1
+  text 0.2, "Questa probabilmente sarà la nostra ultima visita al bacino spaziale."
+  text 0.35,"Il progetto di costruzione è quasi completato."
+  text 0.45,"Presto avremo terminato i test dei sistemi a bordo. Poi potremo iniziare l'evacuazione. Pace e felicità, sorelle mie."
+  text 0.8, " "		
+}
+
+cutscene CS306   
+{
+  PosY 1
+  text 0.8, " "		
+}
+
+cutscene CS307   
+{
+  PosY 1
+  text 0.2, "Sono lieta di riportare altre buone notizie dai lavoratori del Ixchel Research Center. Sembra che la nostra arma più recente, l'Electro-cannon, sia pronta all'azione."
+  text 0.4, "Abbiamo testato quest'arma su diversi tipi di veicoli nemici e i risultati mostrano che è particolarmente efficace."
+  text 0.6, "I primi modelli entreranno in produzione di massa molto presto. Se manteniamo questo ritmo, sicuramente non falliremo."
+  text 0.8, " "		
+}
+
+cutscene CS308   
+{
+  PosY 1
+  text 0.2, "Durante la nostra visita al Ixchel Research Center abbiamo avuto il piacere di osservare le prove finali di una nuova arma - il Sound Wave Cannon."
+  text 0.4, "I nostri colleghi hanno effettuato diversi test contro veicoli nemici e non abbiamo alcun dubbio: il Sound Wave Cannon funziona alla perfezione."
+  text 0.55, "Ci hanno anche informato che i test sul campo saranno effettuati a breve, con il dispiegamento immediato successivo."
+  text 0.75, " "		
+}
+
+cutscene CS309   
+{
+  PosY 1
+  text 0.2, "Siamo qui al Ixchel Research Center dove hanno appena terminato lo sviluppo di un nuovo bombardiere pesante."
+  text 0.5, "Questa belva può essere armata con lanciarazzi o Sound Wave Cannon e ha una potenza notevole. Ci aspettiamo grandi risultati quando finalmente entrerà in battaglia."
+  text 0.75, " "		
+}
+
+cutscene CS310   
+{
+  PosY 1
+  text 0.2, "Ciao sorelle e fratelli! Con la grande vittoria di oggi abbiamo assicurato un ricco approvvigionamento di materie prime per la nostra causa."
+  text 0.5, "Ora che le nostre scorte minerarie sono state rifornite, potremo accelerare notevolmente la costruzione della nostra nave di evacuazione. Pace e felicità a tutti."
+  text 0.8, " "		
+}
+
+cutscene CS311   
+{
+  PosY 1
+  text 0.2, "Il nostro esercito ha vinto ancora. Abbiamo battuto il nemico sul suo stesso terreno."
+  text 0.35, "Ora abbiamo assicurato nuove fonti di materie prime per accelerare il completamento della nostra nave di evacuazione che abbiamo ora rinominato "The Starship"."
+  text 0.6, "Speriamo e preghiamo che questa non sia la nostra ultima vittoria."
+  text 0.75, " "		
+}
+
+cutscene CS312   
+{
+  PosY 1
+  text 0.2, "Oggi condividiamo tutti l'angoscia delle nostre sorelle soldatesse dopo l'ultimo contraccolpo. Non per loro colpa: sono state sconfitte mentre combattevano per nuovi territori ricchi di minerali."
+  text 0.4, "Purtroppo questa perdita ritarderà il completamento della nostra Starship. Ma non disperate: la giustizia prevarrà sempre sulla forza nel lungo periodo."
+  text 0.8, " "		
+}
+
+cutscene CS313   
+{
+  PosY 1
+  text 0.2, " "
+  text 0.8, " "		
+}
+
+cutscene CS314   
+{
+  PosY 1	
+  text 0.2, "I nostri astronomi sono giunti alla terribile conclusione che le guerre che infuriano sulla Terra hanno reso la sua orbita instabile."
+  text 0.35, "In pochi anni Gaia morirà in agonia." 
+  text 0.50, "Il Celestial Council ha parlato - costruire una nave di evacuazione per portare la nostra colonia in salvo sul pianeta Marte."
+  text 0.65, "Porteremo il materiale necessario in orbita e lì inizieremo la costruzione della nave."
+}
+
+cutscene CS315   
+{
+  PosY 1
+  text 0.2, "Gaia, povera Gaia. L'orbita della Terra è cambiata. Il suo clima si sta riscaldando e le calotte polari si stanno sciogliendo, causando l'innalzamento degli oceani e l'allagamento delle terre."
+  text 0.35, " "
+  text 0.50, "Gli scienziati credono che in soli 3 mesi le calotte polari non esisteranno più."
+  text 0.65, "Prevediamo che oggi la temperatura raggiungerà gli 80 gradi e stanotte scenderà a 50 gradi."
+  text 0.8, " "		
+}
+
+cutscene CS316   
+{
+  PosY 1
+  text 0.2, "La temperatura della Terra continua a salire."
+  text 0.3, "Le riserve naturali d'acqua si stanno prosciugando. Gaia è diventata un deserto."
+  text 0.5, "Gli scienziati avvertono che i nostri sistemi laser sono in pericolo a causa del calore."
+  text 0.7, " "		
+}
+
+cutscene CS317   
+{
+  PosY 1
+  text 0.2, "Disturbi nell'orbita terrestre hanno provocato massicci movimenti delle placche."
+  text 0.35, "Gli astro-geologi temono che nei prossimi mesi le forze gravitazionali lacereranno la crosta di Gaia, scatenando un fiume di lava incandescente dal suo nucleo."
+  text 0.50, 
+  text 0.6, "Questo significherà la fine di ogni vita."
+  text 0.7, " "		
+}
