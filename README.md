@@ -13,6 +13,7 @@ Testata su:
 ---
 
 ## Stato della traduzione
+**Versione attuale: v0.9 — Traduzione giocabile**
 
 Da completare:
 - editor mappe
