@@ -83,8 +83,10 @@ Ecco alcune anteprime della traduzione italiana in gioco:
 
 ![Menu tradotto](assets/main_menu.png)
 
-![Briefing tradotto](assets/interfaccia.png)
+![Messaggi tradotto](assets/messaggio.png)
 
-![Interfaccia tradotta](assets/messaggio.png)
+![Interfaccia tradotta](assets/interfaccia.png)
 
-![Messaggi tradotti](assets/missioni.png)
+![Missioni tradotti](assets/missioni.png)
+
+![Sottotitoli tradotti](assets/sottotitoli_video.png)
