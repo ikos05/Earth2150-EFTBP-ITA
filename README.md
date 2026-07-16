@@ -1,3 +1,5 @@
+![Logo Earth 2150 Traduzione Italiana](assets/logo_earth2150_traduzione_italiana.png)
+
 # Earth-2150-EFTBP-Italian-Translation
 Traduzione italiana di Earth 2150: Escape from the Blue Planet.
 
@@ -66,3 +68,23 @@ Questa traduzione è una modifica non ufficiale dei file di gioco di Earth 2150:
 I contenuti originali rimangono di proprietà dei rispettivi detentori dei diritti.
 La traduzione italiana è distribuita gratuitamente e senza scopo di lucro.
 Questo progetto non è affiliato né supportato dagli sviluppatori o dai publisher originali.
+
+---
+
+## link
+
+**Pagina ModDB:** "https://www.moddb.com/mods/earth2150-eftbp-traduzioneitaliana"
+
+---
+
+## Screenshots
+
+Ecco alcune anteprime della traduzione italiana in gioco:
+
+![Menu tradotto](assets/main_menu.png)
+
+![Briefing tradotto](assets/interfaccia.png)
+
+![Interfaccia tradotta](assets/messaggio.png)
+
+![Messaggi tradotti](assets/missioni.png)
